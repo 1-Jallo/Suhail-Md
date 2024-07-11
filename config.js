@@ -74,7 +74,7 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "JALLLO-MD🍃",
+  author : process.env.PACK_AUTHER|| "JALLLO-🍃",
   packname: process.env.PACK_NAME || "Jallo❤️",
   botname : process.env.BOT_NAME  || "Jallo-md",
   ownername:process.env.OWNER_NAME|| "JALLO-MD",
